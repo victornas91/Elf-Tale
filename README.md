@@ -1,2 +1,4 @@
 # Elf-Tale
-My short text game made using Unity and C# (WIP)
+My text game series made with Unity and C#
+
+Part 1 Completed!
